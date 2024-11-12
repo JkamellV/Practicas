@@ -1,6 +1,70 @@
 #root {
   width: 100%;
   height: 100%;
-  margin: 0 auto;
-  text-align: center;
+}
+body {
+  background-color: #1f1d2b;
+}
+.image {
+  padding: 20px;
+  height: 15px;
+}
+.login {
+  padding: 20px;
+  margin-right: 120px;
+}
+
+nav ul li {
+  padding: 20px;
+  display: contents;
+  width: 250px;
+}
+.content {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+nav ul li a {
+  text-decoration: none;
+}
+nav ul {
+  padding: 20px;
+}
+.content1 {
+  margin-left: 9 0px;
+  top: 250px;
+  width: 550px;
+  height: 440px;
+}
+.content2 {
+  margin-left: 5px;
+  top: 250px;
+  width: 550px;
+  height: 260px;
+}
+.tipoletras {
+  margin-top: 100px;
+  padding: 20px;
+  padding-bottom: 5px;
+  margin-left: 90px;
+  font-family: 'Poppins', serif;
+  font-size: 2.5rem;
+  color: white;
+}
+.Subcontenedor {
+  width: 500px;
+  height: 100px;
+  padding-left: 20px;
+  font-family: 'Poppins', serif;
+  margin-left: 90px;
+  color: white;
+}
+.contenedorimg {
+  display: block;
+  width: 500px;
+  height: 580px;
+}
+.subcontenedorimg {
+  width: 400px;
+  height: 300px;
 }
