@@ -25,8 +25,9 @@ function App() {
               </li>
             </ul>
           </nav>
-          <div className="login">
-            <div></div>
+          <div className="contlogin">
+            <button className="Create"> Create</button>
+            <button className="Ingresar">Sing in</button>
           </div>
         </div>
       </header>
@@ -46,9 +47,11 @@ function App() {
           </div>
         </div>
       </div>
-      <div className="contenedorimg">
-        <p> hola </p>
-        <div className="subcontenedorimg"></div>
+      <div className="contenedorpp">
+        <div className="contenedorimg">
+          <p> hola </p>
+          <div className="subcontenedorimg"></div>
+        </div>
       </div>
     </>
   );
