@@ -73,11 +73,12 @@ nav ul li a {
   font-family: 'Poppins', serif;
 }
 .Ingresar {
-  font-size: 1rem;
-  width: 90px;
+  justify-items: center  ;
+  font-size: 1.5rem;
+  width: 150px;
   height: 40px;
   border-radius: 10px;
-  border: 1px;
+  border-color: #bcbcbc;
   background-color: transparent;
   font-family: 'Poppins', serif;
 }
